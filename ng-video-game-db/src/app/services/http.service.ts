@@ -24,6 +24,3 @@ return this.http.get<APIResponse<Game>>(`${env.BASE_URL}/games`, {
 }
 
 
-// wissou
-
-// root
